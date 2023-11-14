@@ -65,7 +65,7 @@ echo "✅ Pushed blob image!"
 echo "🔨 Building Template Dockerfile..."
 # build blob image
 docker buildx build \
-  "./${CYAN_PATH}" \
+  "." \
   -f "${CYAN_PATH}/Dockerfile" \
   --platform="linux/arm64,linux/amd64" \
   --push \
