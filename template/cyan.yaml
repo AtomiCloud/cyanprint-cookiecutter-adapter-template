@@ -1,0 +1,10 @@
+username: var__username__
+name: var__name__
+description: var__desc__
+project: var__project__
+source: var__source__
+email: var__email__
+tags: var__tags__
+readme: cyan/README.MD
+processors: ["cyan/cookiecutter"]
+plugins: []

@@ -1,0 +1,10 @@
+username: cyan
+name: cookiecutter-adapter
+description: Convert CookieCutter templates to CyanPrint template
+project: https://github.com/AtomiCloud/cyanprint-cookiecutter-adapter-template
+source: https://github.com/AtomiCloud/cyanprint-cookiecutter-adapter-template
+email: ernest@atomi.cloud
+tags: ["cyanprint","default","cookiecutter"]
+readme: cyan/README.MD
+processors: ["cyan/default"]
+plugins: []

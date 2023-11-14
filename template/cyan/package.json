@@ -1,0 +1,17 @@
+{
+  "name": "template",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/uuid": "^9.0.7",
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@atomicloud/cyan-sdk": "latest",
+    "simple-git": "^3.20.0",
+    "uuid": "^9.0.1"
+  }
+}
